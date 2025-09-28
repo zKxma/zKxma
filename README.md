@@ -42,7 +42,7 @@ Ich suche eine **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** od
 
 ---
 
-> "Entweder man codet, oder man ist gecoded."
+> "Those who cany do. Those who can't, complain."
 > — Linus Torvalds
 
 ---
