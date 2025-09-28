@@ -42,7 +42,7 @@ Ich suche eine **Ausbildung zum Fachinformatiker für Anwendungsentwicklung** od
 
 ---
 
-> "Those who cany do. Those who can't, complain."
+> "Those who can, do. Those who can't, complain."
 > — Linus Torvalds
 
 ---
