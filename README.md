@@ -1,17 +1,17 @@
 <div align="center">
-  <h1 align="center">Hallo, ich bin <span style="font-weight: bold;">Kuma (David)</span> 👋</h1>
+  <h1 align="center">Hallo, ich bin <span style="font-weight: bold;">Kuma (David)</span> </h1>
 </div>
 
 ---
 
-### 🚀 Über mich
+###  Über mich:
 Ich bin ein **Schüler der 11. Klasse** am Gymnasium und möchte im IT-Bereich Fuß fassen. Mein größtes Interesse gilt der **Anwendungsentwicklung**, weshalb ich eine Ausbildung in diesem Feld anstrebe.
 
 Ich bin offen dafür, neue Programmiersprachen und Technologien zu lernen, und bringe eine grundlegende Leidenschaft für Hardware und Software mit.
 
 ---
 
-### 🛠️ Meine Fähigkeiten
+###  Meine Fähigkeiten:
 Hier sind einige der Technologien und Tools, mit denen ich bereits in Berührung gekommen bin und die ich weiter vertiefen möchte:
 
 **Programmiersprachen:**
@@ -25,7 +25,7 @@ Hier sind einige der Technologien und Tools, mit denen ich bereits in Berührung
 * GPU: RTX 4060
 ---
 
-### 🌱 Was ich gerade mache
+###  Was ich gerade mache:
 * 💻 Ich fange bald an, ein **Installationsskript für Arch Linux** in Shell/Bash zu entwickeln. Dieses Projekt soll meine Fähigkeiten in der Skripterstellung und im Umgang mit dem Betriebssystem vertiefen.
 * 📚 Ich möchte meine Kenntnisse in **Java** ausbauen und tiefer in die Anwendungsentwicklung einsteigen.
 * 💬 Frag mich nach **Linux-Distributionen, PC-Hardware oder Gaming**.
