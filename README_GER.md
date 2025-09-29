@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hallo, ich bin <span style="font-weight: bold;">Kuma (David)</span> </h1>
+  <h1 align="center">Hallo, ich bin <span style="font-weight: bold;">David</span> </h1>
 </div>
 
 ---
@@ -15,7 +15,7 @@ Ich bin offen dafür, neue Programmiersprachen und Technologien zu lernen, und b
 Hier sind einige der Technologien und Tools, mit denen ich bereits in Berührung gekommen bin und die ich weiter vertiefen möchte:
 
 **Programmiersprachen:**
-`[Java]` `[SQL]` `(Gerade lerne ich C#)`
+`[Java]` `[SQL]` `[Gerade lerne ich C#]`
 
 **Betriebssysteme & Tools:**
 `[Windows 11]` `[Arch Linux (hyprland / KDE Plasma)]` `[Shell/Bash]` `[pacman (Arch)]` `[Git]` `[nano]` `[VSCodium]`
